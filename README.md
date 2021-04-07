@@ -1,4 +1,4 @@
-# MERN Social-Media
+# Social-Media
 
 ## Backend
 
