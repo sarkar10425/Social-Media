@@ -4,7 +4,7 @@
 
 ### To run this project, do the following:
 
-##### create .env with the following code (update credentials). Make sure to create .env in the root directory of the project. nodeapi/.env
+##### create .env with the following code (update credentials). Make sure to create .env in the root directory of the project. backend/.env
 
 ```
 MONGOURI=mongodb://localhost:27017/socialmedia
